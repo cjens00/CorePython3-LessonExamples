@@ -1,3 +1,9 @@
+# Course Name: Principles of Programming Languages
+# Course Prefix and Number: CS 3210
+# Instructor: Dr. Mota
+# Student Name: Cameron Jensen
+
+
 def Exercise():
     source = [2, 3.75, .04, 59, 0.3, 6, 7, 8.5, 9, 10]
     target = [int(x) for x in source]
